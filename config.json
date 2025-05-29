@@ -1,0 +1,34 @@
+{
+    "domain": "https://shuffle.flippingalgos.xyz/",
+    "graphQL": "https://cloud.dgraph.io/graphql",
+    "graphQLkey": "",
+    "algod": {
+        "server": "https://xna-mainnet-api.algonode.cloud/",
+        "port": "",
+        "token": "",
+        "network": "MainNet"
+    },
+    "indexer": {
+        "server": "https://xna-mainnet-api.algonode.cloud/",
+        "port": "",
+        "token": ""
+    },
+    "ipfs": {
+        "display": "https://cloudflare-ipfs.com/ipfs/",
+        "ipfsGateway": "https://ipfs.algonode.xyz/ipfs/",
+        "token": ""
+    },
+    "explorer": "allo.info",
+    "application": {
+        "admin_addr": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "app_id": 847772131,
+        "owner_addr": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "name": "FlippingAlgosShuffleBoilerPlate",
+        "unit": "FA",
+        "fee_amt": 10000
+    },
+    "dev": {
+        "debug_txns": false,
+        "accounts": {}
+    }
+}
